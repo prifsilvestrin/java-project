@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Java Project
+## Project which covers Java Fundamental Concepts
 
-*Default Structure for A Basic Project*
+*Basic Data Types, Flow Control and Loops*
 
 **Java 8**
 
@@ -10,4 +10,4 @@
 
 Java Project for SQA Boot Camp Program. 
 
-[Priscila Ferreira Silvestrin](https://github.com/prifsilvestrin/basic-project)
+[Priscila Ferreira Silvestrin](https://github.com/prifsilvestrin/java-project)
